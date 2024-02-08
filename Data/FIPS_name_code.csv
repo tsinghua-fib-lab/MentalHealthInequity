@@ -1,0 +1,52 @@
+FIPS,NAME,Name,CODE,Code
+1,ALABAMA,Alabama,AL,al
+2,ALASKA,Alaska,AK,ak
+4,ARIZONA,Arizona,AZ,az
+5,ARKANSAS,Arkansas,AR,ar
+6,CALIFORNIA,California,CA,ca
+8,COLORADO,Colorado,CO,co
+9,CONNECTICUT,Connecticut,CT,ct
+10,DELAWARE,Delaware,DE,de
+11,DISTRICT OF COLUMBIA,District Of Columbia,DC,dc
+12,FLORIDA,Florida,FL,fl
+13,GEORGIA,Georgia,GA,ga
+15,HAWAII,Hawaii,HI,hi
+16,IDAHO,Idaho,ID,id
+17,ILLINOIS,Illinois,IL,il
+18,INDIANA,Indiana,IN,in
+19,IOWA,Iowa,IA,ia
+20,KANSAS,Kansas,KS,ks
+21,KENTUCKY,Kentucky,KY,ky
+22,LOUISIANA,Louisiana,LA,la
+23,MAINE,Maine,ME,me
+24,MARYLAND,Maryland,MD,md
+25,MASSACHUSETTS,Massachusetts,MA,ma
+26,MICHIGAN,Michigan,MI,mi
+27,MINNESOTA,Minnesota,MN,mn
+28,MISSISSIPPI,Mississippi,MS,ms
+29,MISSOURI,Missouri,MO,mo
+30,MONTANA,Montana,MT,mt
+31,NEBRASKA,Nebraska,NE,ne
+32,NEVADA,Nevada,NV,nv
+33,NEW HAMPSHIRE,New Hampshire,NH,nh
+34,NEW JERSEY,New Jersey,NJ,nj
+35,NEW MEXICO,New Mexico,NM,nm
+36,NEW YORK,New York,NY,ny
+37,NORTH CAROLINA,North Carolina,NC,nc
+38,NORTH DAKOTA,North Dakota,ND,nd
+39,OHIO,Ohio,OH,oh
+40,OKLAHOMA,Oklahoma,OK,ok
+41,OREGON,Oregon,OR,or
+42,PENNSYLVANIA,Pennsylvania,PA,pa
+44,RHODE ISLAND,Rhode Island,RI,ri
+45,SOUTH CAROLINA,South Carolina,SC,sc
+46,SOUTH DAKOTA,South Dakota,SD,sd
+47,TENNESSEE,Tennessee,TN,tn
+48,TEXAS,Texas,TX,tx
+49,UTAH,Utah,UT,ut
+50,VERMONT,Vermont,VT,vt
+51,VIRGINIA,Virginia,VA,va
+53,WASHINGTON,Washington,WA,wa
+54,WEST VIRGINIA,West Virginia,WV,wv
+55,WISCONSIN,Wisconsin,WI,wi
+56,WYOMING,Wyoming,WY,wy

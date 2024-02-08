@@ -1,0 +1,52 @@
+Column Name,Label
+DP02_0060PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+DP03_0007PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force
+DP05_0003PE,Percent!!SEX AND AGE!!Total population!!Female
+DP03_0088E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars)
+DP03_0062E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Total households!!Median household income (dollars)
+DP03_0063E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Total households!!Mean household income (dollars)
+DP03_0086E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)
+DP03_0087E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars)
+DP03_0119PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families
+DP03_0128PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people
+DP04_0089E,Estimate!!VALUE!!Owner-occupied units!!Median (dollars)
+DP05_0005PE,Percent!!SEX AND AGE!!Total population!!Under 5 years
+DP05_0006PE,Percent!!SEX AND AGE!!Total population!!5 to 9 years
+DP05_0007PE,Percent!!SEX AND AGE!!Total population!!10 to 14 years
+DP05_0008PE,Percent!!SEX AND AGE!!Total population!!15 to 19 years
+DP05_0009PE,Percent!!SEX AND AGE!!Total population!!20 to 24 years
+DP05_0010PE,Percent!!SEX AND AGE!!Total population!!25 to 34 years
+DP05_0011PE,Percent!!SEX AND AGE!!Total population!!35 to 44 years
+DP05_0012PE,Percent!!SEX AND AGE!!Total population!!45 to 54 years
+DP05_0013PE,Percent!!SEX AND AGE!!Total population!!55 to 59 years
+DP05_0014PE,Percent!!SEX AND AGE!!Total population!!60 to 64 years
+DP05_0015PE,Percent!!SEX AND AGE!!Total population!!65 to 74 years
+DP05_0016PE,Percent!!SEX AND AGE!!Total population!!75 to 84 years
+DP05_0017PE,Percent!!SEX AND AGE!!Total population!!85 years and over
+DP05_0018E,Estimate!!SEX AND AGE!!Total population!!Median age (years)
+DP05_0019PE,Percent!!SEX AND AGE!!Total population!!Under 18 years
+DP05_0024PE,Percent!!SEX AND AGE!!Total population!!65 years and over
+DP04_0058PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available
+DP04_0059PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available
+DP04_0060PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available
+DP04_0061PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available
+DP02_0006PE,"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present"
+DP02_0010PE,"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present"
+DP02_0026PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Never married
+DP02_0027PE,"Percent!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated"
+DP02_0028PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Separated
+DP02_0029PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Widowed
+DP02_0030PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Divorced
+DP02_0032PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Never married
+DP02_0033PE,"Percent!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated"
+DP02_0034PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Separated
+DP02_0035PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Widowed
+DP02_0036PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Divorced

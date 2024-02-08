@@ -1,0 +1,101 @@
+Column Name,Label
+DP04_0016E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units
+DP04_0017E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2020 or later
+DP04_0018E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 to 2019
+DP04_0019E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009
+DP04_0020E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999
+DP04_0021E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989
+DP04_0022E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979
+DP04_0023E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969
+DP04_0024E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959
+DP04_0025E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949
+DP04_0026E,Estimate!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier
+DP04_0027E,Estimate!!ROOMS!!Total housing units
+DP04_0028E,Estimate!!ROOMS!!Total housing units!!1 room
+DP04_0029E,Estimate!!ROOMS!!Total housing units!!2 rooms
+DP04_0030E,Estimate!!ROOMS!!Total housing units!!3 rooms
+DP04_0031E,Estimate!!ROOMS!!Total housing units!!4 rooms
+DP04_0032E,Estimate!!ROOMS!!Total housing units!!5 rooms
+DP04_0033E,Estimate!!ROOMS!!Total housing units!!6 rooms
+DP04_0034E,Estimate!!ROOMS!!Total housing units!!7 rooms
+DP04_0035E,Estimate!!ROOMS!!Total housing units!!8 rooms
+DP04_0036E,Estimate!!ROOMS!!Total housing units!!9 rooms or more
+DP04_0037E,Estimate!!ROOMS!!Total housing units!!Median rooms
+DP04_0038E,Estimate!!BEDROOMS!!Total housing units
+DP04_0039E,Estimate!!BEDROOMS!!Total housing units!!No bedroom
+DP04_0040E,Estimate!!BEDROOMS!!Total housing units!!1 bedroom
+DP04_0041E,Estimate!!BEDROOMS!!Total housing units!!2 bedrooms
+DP04_0042E,Estimate!!BEDROOMS!!Total housing units!!3 bedrooms
+DP04_0043E,Estimate!!BEDROOMS!!Total housing units!!4 bedrooms
+DP04_0044E,Estimate!!BEDROOMS!!Total housing units!!5 or more bedrooms
+DP04_0045E,Estimate!!HOUSING TENURE!!Occupied housing units
+DP04_0046E,Estimate!!HOUSING TENURE!!Occupied housing units!!Owner-occupied
+DP04_0047E,Estimate!!HOUSING TENURE!!Occupied housing units!!Renter-occupied
+DP04_0057E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units
+DP04_0058E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available
+DP04_0059E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available
+DP04_0060E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available
+DP04_0061E,Estimate!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available
+DP04_0080E,Estimate!!VALUE!!Owner-occupied units
+DP04_0081E,"Estimate!!VALUE!!Owner-occupied units!!Less than $50,000"
+DP04_0082E,"Estimate!!VALUE!!Owner-occupied units!!$50,000 to $99,999"
+DP04_0083E,"Estimate!!VALUE!!Owner-occupied units!!$100,000 to $149,999"
+DP04_0084E,"Estimate!!VALUE!!Owner-occupied units!!$150,000 to $199,999"
+DP04_0085E,"Estimate!!VALUE!!Owner-occupied units!!$200,000 to $299,999"
+DP04_0086E,"Estimate!!VALUE!!Owner-occupied units!!$300,000 to $499,999"
+DP04_0087E,"Estimate!!VALUE!!Owner-occupied units!!$500,000 to $999,999"
+DP04_0088E,"Estimate!!VALUE!!Owner-occupied units!!$1,000,000 or more"
+DP04_0089E,Estimate!!VALUE!!Owner-occupied units!!Median (dollars)
+DP04_0090E,Estimate!!MORTGAGE STATUS!!Owner-occupied units
+DP04_0091E,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage
+DP04_0092E,Estimate!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage
+DP04_0016PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units
+DP04_0017PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2020 or later
+DP04_0018PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2010 to 2019
+DP04_0019PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 2000 to 2009
+DP04_0020PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1990 to 1999
+DP04_0021PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1980 to 1989
+DP04_0022PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1970 to 1979
+DP04_0023PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1960 to 1969
+DP04_0024PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1950 to 1959
+DP04_0025PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1940 to 1949
+DP04_0026PE,Percent!!YEAR STRUCTURE BUILT!!Total housing units!!Built 1939 or earlier
+DP04_0027PE,Percent!!ROOMS!!Total housing units
+DP04_0028PE,Percent!!ROOMS!!Total housing units!!1 room
+DP04_0029PE,Percent!!ROOMS!!Total housing units!!2 rooms
+DP04_0030PE,Percent!!ROOMS!!Total housing units!!3 rooms
+DP04_0031PE,Percent!!ROOMS!!Total housing units!!4 rooms
+DP04_0032PE,Percent!!ROOMS!!Total housing units!!5 rooms
+DP04_0033PE,Percent!!ROOMS!!Total housing units!!6 rooms
+DP04_0034PE,Percent!!ROOMS!!Total housing units!!7 rooms
+DP04_0035PE,Percent!!ROOMS!!Total housing units!!8 rooms
+DP04_0036PE,Percent!!ROOMS!!Total housing units!!9 rooms or more
+DP04_0037PE,Percent!!ROOMS!!Total housing units!!Median rooms
+DP04_0038PE,Percent!!BEDROOMS!!Total housing units
+DP04_0039PE,Percent!!BEDROOMS!!Total housing units!!No bedroom
+DP04_0040PE,Percent!!BEDROOMS!!Total housing units!!1 bedroom
+DP04_0041PE,Percent!!BEDROOMS!!Total housing units!!2 bedrooms
+DP04_0042PE,Percent!!BEDROOMS!!Total housing units!!3 bedrooms
+DP04_0043PE,Percent!!BEDROOMS!!Total housing units!!4 bedrooms
+DP04_0044PE,Percent!!BEDROOMS!!Total housing units!!5 or more bedrooms
+DP04_0045PE,Percent!!HOUSING TENURE!!Occupied housing units
+DP04_0046PE,Percent!!HOUSING TENURE!!Occupied housing units!!Owner-occupied
+DP04_0047PE,Percent!!HOUSING TENURE!!Occupied housing units!!Renter-occupied
+DP04_0057PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units
+DP04_0058PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!No vehicles available
+DP04_0059PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!1 vehicle available
+DP04_0060PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!2 vehicles available
+DP04_0061PE,Percent!!VEHICLES AVAILABLE!!Occupied housing units!!3 or more vehicles available
+DP04_0080PE,Percent!!VALUE!!Owner-occupied units
+DP04_0081PE,"Percent!!VALUE!!Owner-occupied units!!Less than $50,000"
+DP04_0082PE,"Percent!!VALUE!!Owner-occupied units!!$50,000 to $99,999"
+DP04_0083PE,"Percent!!VALUE!!Owner-occupied units!!$100,000 to $149,999"
+DP04_0084PE,"Percent!!VALUE!!Owner-occupied units!!$150,000 to $199,999"
+DP04_0085PE,"Percent!!VALUE!!Owner-occupied units!!$200,000 to $299,999"
+DP04_0086PE,"Percent!!VALUE!!Owner-occupied units!!$300,000 to $499,999"
+DP04_0087PE,"Percent!!VALUE!!Owner-occupied units!!$500,000 to $999,999"
+DP04_0088PE,"Percent!!VALUE!!Owner-occupied units!!$1,000,000 or more"
+DP04_0089PE,Percent!!VALUE!!Owner-occupied units!!Median (dollars)
+DP04_0090PE,Percent!!MORTGAGE STATUS!!Owner-occupied units
+DP04_0091PE,Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units with a mortgage
+DP04_0092PE,Percent!!MORTGAGE STATUS!!Owner-occupied units!!Housing units without a mortgage

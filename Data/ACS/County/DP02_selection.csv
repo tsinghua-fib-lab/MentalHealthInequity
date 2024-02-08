@@ -1,0 +1,59 @@
+Column Name,Label
+DP02_0001E,Estimate!!HOUSEHOLDS BY TYPE!!Total households
+DP02_0002E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household
+DP02_0004E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household
+DP02_0006E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present"
+DP02_0010E,"Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present"
+DP02_0014E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years
+DP02_0015E,Estimate!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over
+DP02_0025E,Estimate!!MARITAL STATUS!!Males 15 years and over
+DP02_0026E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Never married
+DP02_0027E,"Estimate!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated"
+DP02_0028E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Separated
+DP02_0029E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Widowed
+DP02_0030E,Estimate!!MARITAL STATUS!!Males 15 years and over!!Divorced
+DP02_0031E,Estimate!!MARITAL STATUS!!Females 15 years and over
+DP02_0032E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Never married
+DP02_0033E,"Estimate!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated"
+DP02_0034E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Separated
+DP02_0035E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Widowed
+DP02_0036E,Estimate!!MARITAL STATUS!!Females 15 years and over!!Divorced
+DP02_0059E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over
+DP02_0060E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+DP02_0001PE,Percent!!HOUSEHOLDS BY TYPE!!Total households
+DP02_0002PE,Percent!!HOUSEHOLDS BY TYPE!!Total households!!Married-couple household
+DP02_0004PE,Percent!!HOUSEHOLDS BY TYPE!!Total households!!Cohabiting couple household
+DP02_0006PE,"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Male householder, no spouse/partner present"
+DP02_0010PE,"Percent!!HOUSEHOLDS BY TYPE!!Total households!!Female householder, no spouse/partner present"
+DP02_0014PE,Percent!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people under 18 years
+DP02_0015PE,Percent!!HOUSEHOLDS BY TYPE!!Total households!!Households with one or more people 65 years and over
+DP02_0025PE,Percent!!MARITAL STATUS!!Males 15 years and over
+DP02_0026PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Never married
+DP02_0027PE,"Percent!!MARITAL STATUS!!Males 15 years and over!!Now married, except separated"
+DP02_0028PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Separated
+DP02_0029PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Widowed
+DP02_0030PE,Percent!!MARITAL STATUS!!Males 15 years and over!!Divorced
+DP02_0031PE,Percent!!MARITAL STATUS!!Females 15 years and over
+DP02_0032PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Never married
+DP02_0033PE,"Percent!!MARITAL STATUS!!Females 15 years and over!!Now married, except separated"
+DP02_0034PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Separated
+DP02_0035PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Widowed
+DP02_0036PE,Percent!!MARITAL STATUS!!Females 15 years and over!!Divorced
+DP02_0059PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over
+DP02_0060PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher

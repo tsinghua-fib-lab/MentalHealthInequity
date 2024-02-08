@@ -1,0 +1,47 @@
+Column Name,Label
+DP02_0060E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063E,"Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068E,Estimate!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+DP02_0060PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+DP02_0061PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma"
+DP02_0062PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+DP02_0063PE,"Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree"
+DP02_0064PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+DP02_0065PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+DP02_0066PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+DP02_0067PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher
+DP02_0068PE,Percent!!EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher
+DP03_0002E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force
+DP03_0007E,Estimate!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force
+DP03_0052E,"Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000"
+DP03_0088E,Estimate!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars)
+DP03_0128E,Estimate!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people
+DP03_0002PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!In labor force
+DP03_0007PE,Percent!!EMPLOYMENT STATUS!!Population 16 years and over!!Not in labor force
+DP03_0052PE,"Percent!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Total households!!Less than $10,000"
+DP03_0088PE,Percent!!INCOME AND BENEFITS (IN 2021 INFLATION-ADJUSTED DOLLARS)!!Per capita income (dollars)
+DP03_0128PE,Percent!!PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All people
+DP05_0002E,Estimate!!SEX AND AGE!!Total population!!Male
+DP05_0003E,Estimate!!SEX AND AGE!!Total population!!Female
+DP05_0017E,Estimate!!SEX AND AGE!!Total population!!85 years and over
+DP05_0018E,Estimate!!SEX AND AGE!!Total population!!Median age (years)
+DP05_0019E,Estimate!!SEX AND AGE!!Total population!!Under 18 years
+DP05_0024E,Estimate!!SEX AND AGE!!Total population!!65 years and over
+DP05_0064E,Estimate!!Race alone or in combination with one or more other races!!Total population!!White
+DP05_0065E,Estimate!!Race alone or in combination with one or more other races!!Total population!!Black or African American
+DP05_0071E,Estimate!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)
+DP05_0002PE,Percent!!SEX AND AGE!!Total population!!Male
+DP05_0003PE,Percent!!SEX AND AGE!!Total population!!Female
+DP05_0017PE,Percent!!SEX AND AGE!!Total population!!85 years and over
+DP05_0018PE,Percent!!SEX AND AGE!!Total population!!Median age (years)
+DP05_0019PE,Percent!!SEX AND AGE!!Total population!!Under 18 years
+DP05_0024PE,Percent!!SEX AND AGE!!Total population!!65 years and over
+DP05_0064PE,Percent!!Race alone or in combination with one or more other races!!Total population!!White
+DP05_0065PE,Percent!!Race alone or in combination with one or more other races!!Total population!!Black or African American
+DP05_0071PE,Percent!!HISPANIC OR LATINO AND RACE!!Total population!!Hispanic or Latino (of any race)
