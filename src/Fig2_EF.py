@@ -168,8 +168,8 @@ def draw_tract_visit_mental_health_relative_control_variable_discrete_regression
     print(most_green_criteria)
 
     if exog == 'TractRadiusOfGyration':
-        least_green_criteria = df['weekly_park_visit_total_per_people'].quantile(0.1)
-        most_green_criteria = df['weekly_park_visit_total_per_people'].quantile(0.9)
+        least_green_criteria = df['TractRadiusOfGyration'].quantile(0.1)
+        most_green_criteria = df['TractRadiusOfGyration'].quantile(0.9)
 
     if exog == 'weekly_park_visit_time_total_per_people':
         least_green_criteria = df['weekly_park_visit_time_total_per_people'].quantile(0.1)

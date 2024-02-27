@@ -78,7 +78,7 @@ We provide the necessary data in this [Google Drive](https://drive.google.com/fi
 
 ### [Optional] Starting from the beginning
 #### ACS data
-Please download the ACS 2019 5 year estimate for [DP02](https://data.census.gov/table/ACSDP5Y2019.DP02?q=DP02), [DP03](https://data.census.gov/table/ACSDP5Y2019.DP03?q=DP03), [DP04](https://data.census.gov/table/ACSDP5Y2019.DP04?q=DP04), [DP05](https://data.census.gov/table/ACSDP5Y2019.DP05?q=DP05) in both census tract and county level, uncompress and put the main data file in `Data/ACS` according to the direction of Folder Structure.
+Please download the 2019 ACS 5-year estimate for [DP02](https://data.census.gov/table/ACSDP5Y2019.DP02?q=DP02), [DP03](https://data.census.gov/table/ACSDP5Y2019.DP03?q=DP03), [DP04](https://data.census.gov/table/ACSDP5Y2019.DP04?q=DP04), [DP05](https://data.census.gov/table/ACSDP5Y2019.DP05?q=DP05) in both census tract and county level, uncompress and put the main data file in `Data/ACS` according to the direction of Folder Structure.
 
 #### Boundary data
 Please download the cartographic boundary files of census block groups, census tracts, counties and nation in 2019 from [United States Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2019.html#list-tab-1883739534).
@@ -86,7 +86,7 @@ Please download the cartographic boundary files of census block groups, census t
 #### PLACES data
 Please download the [PLACES data](https://data.cdc.gov/500-Cities-Places/PLACES-Census-Tract-Data-GIS-Friendly-Format-2021-/mb5y-ytti/about_data) in census tract level. Note that there is a 2-year lag between the release date and the data sampling.
 
-#### Trust for Public Land
+#### ParkServe data
 Please download the [ParkServe data](https://www.tpl.org/park-data-downloads) shapefile.
 
 #### WorldCover data
