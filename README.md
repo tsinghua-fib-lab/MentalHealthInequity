@@ -123,6 +123,8 @@ After performing these steps, you will get the following files. These files are 
 |`park_visit_all_US_within_county_2019.parquet`| 
 |`park_tract_bipart_all_us_within_county_2019.parquet`|
 
+By running the following command, you will get the corresponding *.pdf that reproduces the figures in our main manuscript. The expected run time should be in few secends.
+
 ### Figure 1
 ``` bash
 python ./src/Fig1_ABC.py
